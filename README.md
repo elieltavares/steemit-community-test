@@ -6,9 +6,9 @@ id: community-settings
 
 json: {
 tag-followed:
-	art, poety
+	"art, poety"
 tag-muted:
-	test, dlike
+	"test, dlike"
 }
 }
 
@@ -21,6 +21,6 @@ id: user-blacklist
 
 json:{
 user:
-  haejin, exmeoljl
+  "haejin, exmeoljl"
 }
 }
