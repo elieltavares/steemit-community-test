@@ -25,13 +25,14 @@ user:
 }
 }
 
-########### Upvote and Downvote
-Custom_Json
-id: social_Interation_vote
-json	{"type": "upvote","account":"dan","author":"ned","permlink":"one-small-step-for-steem-one-giant-leap-for-steemkind","appAuth":"st.W42gFb1D94b5rTknpC6482xgNg"}
+#### Upvote and Downvote
+<br/>
+Custom_Json <br/>
+id: social_Interation_vote <br/>
+json	{"type": "upvote","account":"dan","author":"ned","permlink":"one-small-step-for-steem-one-giant-leap-for-steemkind","appAuth":"st.W42gFb1D94b5rTknpC6482xgNg"} <br/>
 
-type = upvote or downvote
-account = YOUR ACCOUNT
-author = author
-permlink = post url
-appAuth =  encrypted code 
+type = upvote or downvote <br/>
+account = YOUR ACCOUNT <br/>
+author = author <br/>
+permlink = post url <br/>
+appAuth =  encrypted code <br/>
